@@ -1,6 +1,5 @@
 # 💻🚀 [Tu Nombre o Alias] | Full Stack Developer & Red Team Ethical Hacker 🏴‍☠️  
 
-![GitHub Banner](https://your-custom-banner-url.com/banner.png) <!-- Personaliza con tu propio banner -->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tuusuario&color=red)  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Full+Stack+Developer+%26+Cybersecurity;Red+Team+Ethical+Hacker;Building+Secure+%26+Scalable+Apps)](https://git.io/typing-svg)
