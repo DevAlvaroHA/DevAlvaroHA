@@ -4,18 +4,15 @@ Soy un **desarrollador apasionado** por la programación con experiencia en dive
 
 ## :wrench: Tecnologías que manejo
 
-### JavaScript / JSX
+### ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) / JSX
 - ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black): Desarrollo de interfaces interactivas y escalables con React.
 - ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white): Desarrollo del backend con Node.js y Express, creando APIs RESTful.
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black): Dominio de JavaScript en el frontend y backend.
 
-### Python
+### ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 - ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white): Desarrollo de aplicaciones web con Django, aprovechando su enfoque rápido y limpio para el desarrollo backend.
-- ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white): Desarrollo de aplicaciones con Python para diferentes tipos de proyectos.
 
-### Java
+### ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 - ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white): Creación de aplicaciones robustas y seguras utilizando Spring Boot, Spring MVC y Spring Data.
-- ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white): Desarrollo de aplicaciones empresariales y de alto rendimiento en Java.
 
 ## :gear: Herramientas y Tecnologías que utilizo
 
