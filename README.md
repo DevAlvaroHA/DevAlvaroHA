@@ -33,9 +33,9 @@ Soy un desarrollador apasionado por la programación y con experiencia en varias
 
 Puedes encontrarme en:
 
-- **LinkedIn**: [Tu LinkedIn](<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="álvaro-hermosilla-alameda-587526339" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://es.linkedin.com/in/%C3%A1lvaro-hermosilla-alameda-587526339?trk=profile-badge">Álvaro Hermosilla Alameda</a></div>
+- **LinkedIn**:<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="álvaro-hermosilla-alameda-587526339" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://es.linkedin.com/in/%C3%A1lvaro-hermosilla-alameda-587526339?trk=profile-badge">Álvaro Hermosilla Alameda</a></div>
               )
-- **Correo electrónico**: [Tu Correo](alvaro.hermosilla.alameda@gmail.com)
+- **Correo electrónico**: alvaro.hermosilla.alameda@gmail.com
 - **GitHub**: [Tu GitHub](https://github.com/DevAlvaroHA)
 
 ¡Gracias por visitar mi perfil!
