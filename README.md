@@ -14,14 +14,6 @@ Soy un desarrollador apasionado por la programación y con experiencia en varias
 ### Java
 - **Spring Framework**: Construcción de aplicaciones robustas y seguras usando Spring Boot, Spring MVC y Spring Data.
 
-## Proyectos destacados
-
-- **Proyecto 1**: [Nombre del Proyecto 1](enlace al repositorio)  
-  Descripción breve de lo que hace el proyecto, las tecnologías utilizadas y algún detalle relevante.
-
-- **Proyecto 2**: [Nombre del Proyecto 2](enlace al repositorio)  
-  Breve descripción del proyecto, lo que resuelve y cómo se implementaron las funcionalidades.
-
 ## Herramientas y Tecnologías que utilizo
 - **Frontend**: React, Redux, HTML, CSS, Bootstrap, Material UI
 - **Backend**: Node.js, Express, Django, Spring Boot
