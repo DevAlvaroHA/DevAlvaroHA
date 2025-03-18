@@ -1,10 +1,10 @@
-# ¡Hola! Soy Álvaro Hermosilla Alameda 👋
+# ¡Hola! Soy Álvaro Hermosilla Alameda 
 
 Soy un **desarrollador apasionado** por la programación con experiencia en diversas tecnologías, como **JavaScript**, **Python** y **Java**. Me encanta crear **aplicaciones web escalables** y **robustas**, utilizando las mejores herramientas y frameworks disponibles.
 
 ## :wrench: Tecnologías que manejo
 
-### ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) / JSX
+### ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 - ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black): Desarrollo de interfaces interactivas y escalables con React.
 - ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white): Desarrollo del backend con Node.js y Express, creando APIs RESTful.
 
@@ -22,18 +22,8 @@ Soy un **desarrollador apasionado** por la programación con experiencia en dive
 - **Control de versiones**: ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white), ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white), ![GitLab](https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=white)
 - **Otros**: ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white), ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white), ![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-25CC72?logo=rest&logoColor=white), ![JWT](https://img.shields.io/badge/JWT-000000?logo=json-web-tokens&logoColor=white)
 
-## :book: Proyectos Destacados
-
-- **[Nombre del Proyecto 1](enlace del repositorio)**  
-  Breve descripción de lo que hace el proyecto y las tecnologías utilizadas.
-  
-- **[Nombre del Proyecto 2](enlace del repositorio)**  
-  Descripción corta sobre el proyecto y cómo lo implementaste.
-
 ## :globe_with_meridians: Cómo contactarme
 
 - **LinkedIn**: [Álvaro Hermosilla Alameda](https://es.linkedin.com/in/%C3%A1lvaro-hermosilla-alameda-587526339?trk=profile-badge)
 - **Correo Electrónico**: [alvaro.hermosilla.alameda@gmail.com](mailto:alvaro.hermosilla.alameda@gmail.com)
 - **GitHub**: [DevAlvaroHA](https://github.com/DevAlvaroHA)
-
-¡Gracias por visitar mi perfil!
