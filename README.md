@@ -22,21 +22,13 @@ Soy un **desarrollador apasionado** por la programación con experiencia en dive
 - **Control de versiones**: Git, GitHub, GitLab
 - **Otros**: Docker, Nginx, RESTful APIs, JWT
 
-## :book: Proyectos Destacados
-
-- **[Nombre del Proyecto 1](enlace del repositorio)**  
-  Breve descripción de lo que hace el proyecto y las tecnologías utilizadas.
-  
-- **[Nombre del Proyecto 2](enlace del repositorio)**  
-  Descripción corta sobre el proyecto y cómo lo implementaste.
-
 ## :globe_with_meridians: Cómo contactarme
 
 - **LinkedIn**: [Álvaro Hermosilla Alameda](https://es.linkedin.com/in/%C3%A1lvaro-hermosilla-alameda-587526339?trk=profile-badge)
 - **Correo Electrónico**: [alvaro.hermosilla.alameda@gmail.com](mailto:alvaro.hermosilla.alameda@gmail.com)
 - **GitHub**: [DevAlvaroHA](https://github.com/DevAlvaroHA)
 
-¡Gracias por visitar mi perfil! :star:
+¡Gracias por visitar mi perfil!
 
 
 
