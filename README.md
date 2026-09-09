@@ -83,7 +83,7 @@ Infraestructura híbrida de dos nodos —uno doméstico y uno en la nube— admi
 | Proyecto | Descripción | Stack |
 |---|---|---|
 | **[Portfolio](https://github.com/DevAlvaroHA/portfolio)** · [demo](https://aha-portfolio.vercel.app/) | Portfolio full-stack con contenido dinámico servido desde PostgreSQL, API documentada y hardening de seguridad.<br>*Full-stack portfolio with dynamic content from PostgreSQL, documented API and security hardening.* | Next.js 15 · React 19 · TypeScript · NestJS · TypeORM · PostgreSQL · Tailwind · shadcn/ui · Docker |
-| **[ConnectToPlay](https://github.com/Xibancry/ju4-project)** | App social para crear lobbies y organizar partidas y quedadas deportivas. Proyecto en equipo.<br>*Social app to create lobbies for gaming sessions and sports meet-ups. Team project.* | Next.js · TypeScript · Node.js · PostgreSQL 15 · JWT · Docker |
+| **[ConnectToPlay](https://github.com/Xibancry/ju4-project)**<br>TFG (DAW) | App social para crear lobbies y organizar partidas y quedadas deportivas. Proyecto en equipo.<br>*Final-year project. Social app to create lobbies for gaming sessions and sports meet-ups. Team project.* | Next.js · TypeScript · Node.js · PostgreSQL 15 · JWT · Docker |
 | **[NotasMugiwara](https://github.com/DevAlvaroHA/NotasMugiwara)** | Gestor de notas interactivo con temas de color y diseño responsive.<br>*Interactive note manager with colour themes and responsive design.* | React · Vite · JavaScript · Tailwind · Docker |
 
 ---
