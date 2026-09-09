@@ -56,7 +56,7 @@ I come from web development (**Web Application Development, DAW**) and still bui
 ## Formación
 
 - **CFGS Administración de Sistemas Informáticos en Red (ASIR)** — IES Valle Inclán, Torrejón de Ardoz (Madrid) · 2025–2027 · *en curso* — TFG: **SysAgent**
-- **CFGS Desarrollo de Aplicaciones Web (DAW)**
+- **CFGS Desarrollo de Aplicaciones Web (DAW)** — IES Isidra de Guzmán, Alcalá de Henares (Madrid) · 2023–2025 · *Graduado* — TFG: **ConnectToPlay**
 
 ---
 
